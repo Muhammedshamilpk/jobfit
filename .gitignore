@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+
+# ChromaDB
+chroma_db/
+chroma/
+
+# Uploads
+uploads/
+
+# Node
+node_modules/
+dist/
+
+# VS Code
+.vscode/
