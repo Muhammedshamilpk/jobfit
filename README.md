@@ -484,7 +484,6 @@ This project provided hands-on experience with:
 * NLP
 * Sentence Transformers
 * Semantic Search
-* Prompt Engineering
 * Groq LLM Integration
 * Full Stack AI Application Development
 
@@ -494,7 +493,7 @@ This project provided hands-on experience with:
 
 Add screenshots here:
 
-```text
+
 <img width="1910" height="920" alt="Screenshot 2026-06-23 205712" src="https://github.com/user-attachments/assets/f2c053ae-708a-4a86-bb61-1fb354649b05" />
 
 <img width="1915" height="962" alt="Screenshot 2026-06-23 205737" src="https://github.com/user-attachments/assets/2a989c98-5701-4958-984e-2e231e30f514" />
@@ -505,7 +504,7 @@ Add screenshots here:
 
 <img width="1918" height="982" alt="Screenshot 2026-06-23 210158" src="https://github.com/user-attachments/assets/e96d67c0-d13b-4882-a815-d8d052c0a57e" />
 
-```
+
 
 
 ---
